@@ -165,3 +165,65 @@ width: 400px;
     /* line-height: 30px; */
     margin-top: 40px;
 }
+
+.main-content>h3{
+   color:red;
+   margin-bottom: 20px;
+}
+.main-content>h1{
+    margin-bottom: 20px;
+
+}
+.main-content>p{
+    width: 800px;
+    margin-bottom: 20px;
+}
+
+.prtfulio-section{
+    margin-top: 80px;
+    padding:50px
+}
+
+
+.card-section{
+    width: 100%;
+
+}
+.contact-section{
+    background-color: antiquewhite;
+    height: 500px;
+    border-radius: 50px;
+}
+
+.content-2{
+    margin:auto;
+    text-align: center;
+    width: 50%;
+    padding:60px
+}
+.content-2>img{
+    width: 100px;
+    margin-bottom: 30px;
+}
+
+.content-2>h1{
+    margin-bottom: 20px;
+}
+
+
+input{
+    padding:20px;
+    width:350px;
+    margin-top: 20px;
+    border-radius: 40px;
+    border:none;
+}
+.sub-buton{
+    background-color: red;
+    color:white;
+    font-weight: bold;
+    border:none;
+    padding:20px;
+    border-radius: 0px 20px 20px 0px;
+    margin-left: -109px;
+}
