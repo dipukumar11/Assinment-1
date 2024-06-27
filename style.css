@@ -100,6 +100,68 @@ color:red
     font-weight: bold;
 }
 
+.section-3{
+    margin-top: 40px;
+   
+}
 
 
 
+.address-section{
+   background-image: linear-gradient(180deg, pink, white);
+   height: 300px;
+   border-radius: 50px;
+   
+}
+.location{
+    color:red;
+}
+.location-section{
+    margin:auto;
+    text-align: center;
+    padding-top: 100px;
+    line-height: 50px;
+    font-family: "Inter", sans-serif;
+    
+}
+.section-4{
+    margin-top: 50px;
+    padding:20px
+}
+.Offer-section{
+    display: flex;
+    justify-content: space-between;
+}
+.comming>h3{
+    color:red;
+    font-size: 20px;
+    margin-bottom: 17px;
+}
+.comming>p{
+margin-top: 20px;
+width: 400px;
+}
+.comming{
+    width: 35%;
+    padding:20px;
+    margin-top:40px;
+}
+
+.offer-img{
+    width: 35%;
+    border: 10px solid red;
+    padding:20px;
+    border-radius: 50%;
+}
+.offer-content>h1{
+    color:red;
+    font-size: 45px;
+    margin-bottom: 20px;
+
+}
+.offer-content{
+    margin-left: 7%;
+    /* width: 40%; */
+    /* line-height: 30px; */
+    margin-top: 40px;
+}
