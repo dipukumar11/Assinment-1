@@ -4,7 +4,7 @@
     font-family: "Inter", sans-serif
 }
 .nav-section{
-    background-image: url('/resources/Banner Image.png');
+    background-image: url('resources/Banner Image.png');
     height: 600px;
     width: 100%;
     background-size: cover;
@@ -63,7 +63,7 @@ color:red
     margin-top: 50px;
 }
 .banar-section{
-    background-image: url('/resources/Vectorrr.png');
+    background-image: url('resources/Vectorrr.png');
     height: 500px;
     width: 100%;
     background-position: center;
